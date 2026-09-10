@@ -2,11 +2,11 @@ import { Skill } from "./skill";
 
 const languages = [
   "Java",
-  "TypeScript",
   "JavaScript",
   "SQL",
-  "C++",
-  "HTML/CSS",
+  "Python",
+  "LEAN",
+  "P4",
 ];
 const frameworks = [
   "React",
