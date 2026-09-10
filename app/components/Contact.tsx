@@ -1,8 +1,8 @@
 const contacts = [
   {
     label: "EMAIL",
-    href: "mailto:youremail@email.com",
-    value: "youremail@email.com",
+    href: "mailto:andrewpringle2026@gmail.com",
+    value: "andrewpringle2026@gmail.com",
     hint: "mailto",
   },
   {
@@ -13,8 +13,8 @@ const contacts = [
   },
   {
     label: "GITHUB",
-    href: "https://github.com/your-handle",
-    value: "github.com/your-handle",
+    href: "https://github.com/andrewpringle",
+    value: "github.com/andrewpringle",
     hint: "repos",
   },
 ] as const;

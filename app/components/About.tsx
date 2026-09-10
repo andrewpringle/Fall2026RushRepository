@@ -12,10 +12,11 @@ export function About() {
         </div>
         <div className="space-y-4 p-5">
           <p className="text-text-primary">
-            I&apos;m <span className="text-primary">Name</span>, a &quot;major&quot; student
-            at the University of South Carolina interested in...
+            I&apos;m <span className="text-primary">Andrew Pringle</span>, an &quot;Integrated Information Technology&quot; student
+            at the University of South Carolina interested in network administration, cybersecurity, and basic IT concepts.
+            I am also very interested in pure mathematics and analysis.
           </p>
-          <p className="text-text-secondary">I am looking for...</p>
+          <p className="text-text-secondary">I am looking for a summer 2027 networking administration internship.</p>
         </div>
       </article>
       <article className="panel">
@@ -28,11 +29,11 @@ export function About() {
             label={"UNIVERSITY"}
             detail={"University of South Carolina"}
           />
-          <PersonalDetail label={"MAJOR"} detail={"Computer Science"} />
-          <PersonalDetail label={"GRADUATION"} detail={"Class of 2028"} />
+          <PersonalDetail label={"MAJOR"} detail={"Integrated IT"} />
+          <PersonalDetail label={"GRADUATION"} detail={"Class of 2030"} />
           <PersonalDetail
             label={"STATUS"}
-            detail={"Looking for SWE internship"}
+            detail={"Looking for networking internship"}
           />
         </div>
       </article>
