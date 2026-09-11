@@ -7,6 +7,7 @@ const languages = [
   "Python",
   "LEAN",
   "P4",
+  "LaTeX",
 ];
 const frameworks = [
   "React",
