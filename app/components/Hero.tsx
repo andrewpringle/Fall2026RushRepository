@@ -31,7 +31,7 @@ export function Hero() {
           GITHUB
         </a>
         <a
-          href="https://www.linkedin.com/in/your-handle"
+          href="https://www.linkedin.com/in/andrew-pringle-757403436"
           target="_blank"
           rel="noopener noreferrer"
           className="glow-border cursor-pointer border border-border px-4 py-2"
