@@ -7,8 +7,8 @@ const contacts = [
   },
   {
     label: "LINKEDIN",
-    href: "https://www.linkedin.com/in/your-handle",
-    value: "linkedin.com/in/your-handle",
+    href: "https://www.linkedin.com/in/andrew-pringle-757403436",
+    value: "linkedin.com/in/andrew-pringle-757403436",
     hint: "profile",
   },
   {
